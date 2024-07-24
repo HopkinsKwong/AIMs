@@ -1,2 +1,2 @@
 # AIMs
-Use pytorch to reproduce the classic plug-and-play modules of artificial intelligence and deep learning.
+Use pytorch to reproduce artificial intelligence from scratch, classic plug-and-play modules for deep learning (including classic models).
